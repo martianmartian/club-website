@@ -51,5 +51,6 @@ hr {
 .mainFooter {
 	font-family: arial;
 	text-align: center;
-	font-size: 80%
+	font-size: 80%;
+	margin-top: 50px;
 }
