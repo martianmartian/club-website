@@ -1,0 +1,55 @@
+body {
+	background-color: #CCCCCC;
+}
+
+.mainHeader {
+	font-family: helvetica;
+	color: #2089AF;
+	font-size: 80%;
+}
+
+.mainHeader nav ul li {
+	display: inline-block;
+}
+
+.mainHeader img {
+	width: auto;
+	height: 35px;
+}
+
+.mainHeader h2 {
+	font-size: 100%; 
+}
+
+.twitterFeed h1 {
+	color: white;
+	text-align: center;
+	font-family: arial;
+}
+
+.twitterFeed img {
+	size: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+hr {
+	height: 2px;
+	background-color: #F0F0F0;
+}
+
+.links {
+	color: #2089AF;
+	font-family: arial, 'Socialico Regular';
+}
+
+.links img{
+	width: 50px;
+}
+
+.mainFooter {
+	font-family: arial;
+	text-align: center;
+	font-size: 80%
+}
