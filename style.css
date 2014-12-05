@@ -33,7 +33,7 @@ body {
 }
 
 .twitterFeed h1 {
-	color: white;
+	color: #2089AF;
 	text-align: center;
 	font-family: arial;
 }
@@ -58,6 +58,10 @@ hr {
 }
 
 .links {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	color: #2089AF;
 	font-family: arial;
 }
