@@ -5,7 +5,8 @@ body {
 .mainHeader {
 	font-family: helvetica;
 	color: #2089AF;
-	font-size: 80%;
+	font-size: 100%;
+
 }
 
 .mainHeader nav ul li {
@@ -14,7 +15,7 @@ body {
 
 .mainHeader img {
 	width: auto;
-	height: 35px;
+	height: 60px;
 }
 
 .mainHeader h2 {
@@ -41,7 +42,7 @@ hr {
 
 .links {
 	color: #2089AF;
-	font-family: arial, 'Socialico Regular';
+	font-family: arial;
 }
 
 .links img{
