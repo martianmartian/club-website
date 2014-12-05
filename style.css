@@ -29,7 +29,7 @@ body {
 
 .mainHeader img {
 	width: auto;
-	height: 35px;
+	height: 60px;
 }
 
 .twitterFeed h1 {
@@ -59,7 +59,7 @@ hr {
 
 .links {
 	color: #2089AF;
-	font-family: arial, 'Socialico Regular';
+	font-family: arial;
 }
 
 .links img{
@@ -69,5 +69,11 @@ hr {
 .mainFooter {
 	font-family: arial;
 	text-align: center;
-	font-size: 80%
+	font-size: 80%;
+	margin-top: 50px;
+}
+
+.icons {
+	display: inline-block;
+	
 }
